@@ -53,7 +53,7 @@ const Header =() =>{
                             </ul>
                         </div>
                     </div>
-                    <div className="text-[32px] font-[Bona Nova SC] pt-[32px] text-center uppercase">
+                    <div className="text-[32px] BonaNovaSC pt-[32px] text-center">
                     Discover Unique Handmade Treasures
                     </div>
                     <div className="pt-[14px]">
