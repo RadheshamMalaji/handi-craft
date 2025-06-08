@@ -1,0 +1,13 @@
+@import "tailwindcss";
+ 
+/* *{margin: 0px; padding: 0px; box-sizing: border-box;} */
+
+.container{
+  width: 90%;
+  margin: auto;
+}
+
+.Mui-selected{
+  color: #F49269 !important;
+  border-bottom: none;
+}
